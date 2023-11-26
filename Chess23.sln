@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chess23", "Chess23\Chess23.vcxproj", "{DCBC2CCC-EC53-41E1-B3FD-D5562CDEEEDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCBC2CCC-EC53-41E1-B3FD-D5562CDEEEDD}.Debug|x64.ActiveCfg = Debug|x64
+		{DCBC2CCC-EC53-41E1-B3FD-D5562CDEEEDD}.Debug|x64.Build.0 = Debug|x64
+		{DCBC2CCC-EC53-41E1-B3FD-D5562CDEEEDD}.Debug|x86.ActiveCfg = Debug|Win32
+		{DCBC2CCC-EC53-41E1-B3FD-D5562CDEEEDD}.Debug|x86.Build.0 = Debug|Win32
+		{DCBC2CCC-EC53-41E1-B3FD-D5562CDEEEDD}.Release|x64.ActiveCfg = Release|x64
+		{DCBC2CCC-EC53-41E1-B3FD-D5562CDEEEDD}.Release|x64.Build.0 = Release|x64
+		{DCBC2CCC-EC53-41E1-B3FD-D5562CDEEEDD}.Release|x86.ActiveCfg = Release|Win32
+		{DCBC2CCC-EC53-41E1-B3FD-D5562CDEEEDD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C913D1A2-908D-405C-8676-AA4754258E2A}
+	EndGlobalSection
+EndGlobal
